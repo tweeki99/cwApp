@@ -1,0 +1,11 @@
+c:\users\шипиловд.corp\source\repos\cwApp\cwApp\obj\Debug\cwApp.csprojAssemblyReference.cache
+c:\users\шипиловд.corp\source\repos\cwApp\cwApp\obj\Debug\cwApp.csproj.CoreCompileInputs.cache
+c:\users\шипиловд.corp\source\repos\cwApp\cwApp\bin\Debug\cwApp.exe.config
+c:\users\шипиловд.corp\source\repos\cwApp\cwApp\bin\Debug\cwApp.exe
+c:\users\шипиловд.corp\source\repos\cwApp\cwApp\bin\Debug\cwApp.pdb
+c:\users\шипиловд.corp\source\repos\cwApp\cwApp\obj\Debug\cwApp.exe
+c:\users\шипиловд.corp\source\repos\cwApp\cwApp\obj\Debug\cwApp.pdb
+c:\users\шипиловд.corp\source\repos\cwApp\cwApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\шипиловд.corp\source\repos\cwApp\cwApp\bin\Debug\Newtonsoft.Json.pdb
+c:\users\шипиловд.corp\source\repos\cwApp\cwApp\bin\Debug\Newtonsoft.Json.xml
+c:\users\шипиловд.corp\source\repos\cwApp\cwApp\obj\Debug\cwApp.csproj.CopyComplete
